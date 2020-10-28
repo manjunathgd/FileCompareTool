@@ -1,0 +1,18 @@
+27/10/2020 20:05:00 Compare button clicked 
+  27/10/2020 20:05:02 File 1 rading started 
+  27/10/2020 20:05:02 Reading file : C:\Users\91890\Downloads\alldirA.txt;with encoding type :Cp1252
+  27/10/2020 20:05:03 File 1 rading ended  
+  27/10/2020 20:05:03 File 2 rading started  
+  27/10/2020 20:05:03 Reading file : C:\Users\91890\Downloads\alldirB.txt;with encoding type :Cp1252
+  27/10/2020 20:05:05 File 2 rading ended  
+  27/10/2020 20:05:05 Maps comparing started  
+  27/10/2020 20:05:06 Maps comparing ended  
+  27/10/2020 20:05:06 Maps printing started  
+  27/10/2020 20:05:08 The file comparison process is completed.
+  27/10/2020 20:05:08 Maps printing ended  
+  27/10/2020 20:05:10 Export button is clicked 
+  27/10/2020 20:05:27 Completed export action and saved to a CSV file.
+  27/10/2020 20:05:27 Data has been exported to the path  C:\Users\91890\Documents\endResult.csv
+  27/10/2020 20:07:08 Compare button clicked 
+  27/10/2020 20:07:10 Selected File1 does not seems to be from Alldir.Please check the file fomat.
+  
